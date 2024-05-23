@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efimb\\source\\repos\\socket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85B9820A-5603-4003-B579-265625FDCF21}|client\\client.vcxproj|C:\\Users\\efimb\\source\\repos\\socket\\client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85B9820A-5603-4003-B579-265625FDCF21}|client\\client.vcxproj|solutionrelative:client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97B0906-EC72-43FE-AD45-5DEDCD9A8A8F}|server\\server.vcxproj|C:\\Users\\efimb\\source\\repos\\socket\\server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A97B0906-EC72-43FE-AD45-5DEDCD9A8A8F}|server\\server.vcxproj|solutionrelative:server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.cpp",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\socket\\client\\client.cpp",
+              "RelativeDocumentMoniker": "client\\client.cpp",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\socket\\client\\client.cpp",
+              "RelativeToolTip": "client\\client.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T14:30:42.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.cpp",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\socket\\server\\server.cpp",
+              "RelativeDocumentMoniker": "server\\server.cpp",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\socket\\server\\server.cpp",
+              "RelativeToolTip": "server\\server.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T14:29:14.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
