@@ -61,7 +61,6 @@ int main()
 
     // Отправляем первое сообщение на сервер
     result = send(ConnectSocket, sendBuffer, (int)strlen(sendBuffer), MSG_DONTROUTE);
-
     if (result == SOCKET_ERROR) 
     {
         std::cout << "Send failed with error" << std::endl;
@@ -76,7 +75,6 @@ int main()
 
     // Отправляем второе сообщение на сервер
     result = send(ConnectSocket, secondMessage, (int)strlen(secondMessage), MSG_DONTROUTE);
-
     if (result == SOCKET_ERROR) 
     {
         std::cout << "Send failed with error" << std::endl;
